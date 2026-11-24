@@ -1,6 +1,6 @@
 <div align="center">
 
 
-<img src="./Elio_Halo_Preview" width="100%">
+<img src="./Elio_Halo_Preview.gif(04)" width="100%">
 
 </div>
